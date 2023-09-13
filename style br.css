@@ -1,0 +1,42 @@
+.parent{
+    width: 1000px;
+    height:1500px;
+    background-color: goldenrod;
+    margin: auto;
+}
+.corner1{
+    border-radius: 15px 50px 30px 5px;
+    background: #73AD21;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+.corner2{
+    border-radius: 15px 50px 30px;
+    background: tomato;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+
+}
+.corner3{
+    border-radius: 15px 50px;
+    background: black;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+.corner4{
+    border-radius: 15px;
+    background: purple;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+.corner5{
+    border-radius: 50%;
+    background: gray;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
